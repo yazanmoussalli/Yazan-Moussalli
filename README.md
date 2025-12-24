@@ -30,23 +30,37 @@ Committed to delivering high-quality solutions.
 
 <h2>My Skills</h2>
 
-<b>Flutter</b><br>
-<img src="https://progress-bar.dev/80/?width=400&color=6A0DAD"><br><br>
+<p>
+Flutter<br>
+<img src="https://progress-bar.dev/80/?scale=100&width=400&color=6A0DAD" />
+</p>
 
-<b>Dart</b><br>
-<img src="https://progress-bar.dev/90/?width=400&color=6A0DAD"><br><br>
+<p>
+Dart<br>
+<img src="https://progress-bar.dev/90/?scale=100&width=400&color=6A0DAD" />
+</p>
 
-<b>C++</b><br>
-<img src="https://progress-bar.dev/90/?width=400&color=6A0DAD"><br><br>
+<p>
+C++<br>
+<img src="https://progress-bar.dev/90/?scale=100&width=400&color=6A0DAD" />
+</p>
 
-<b>HTML</b><br>
-<img src="https://progress-bar.dev/85/?width=400&color=6A0DAD"><br><br>
+<p>
+HTML<br>
+<img src="https://progress-bar.dev/85/?scale=100&width=400&color=6A0DAD" />
+</p>
 
-<b>CSS</b><br>
-<img src="https://progress-bar.dev/85/?width=400&color=6A0DAD"><br><br>
+<p>
+CSS<br>
+<img src="https://progress-bar.dev/85/?scale=100&width=400&color=6A0DAD" />
+</p>
 
-<b>Java</b><br>
-<img src="https://progress-bar.dev/70/?width=400&color=6A0DAD"><br><br>
+<p>
+Java<br>
+<img src="https://progress-bar.dev/70/?scale=100&width=400&color=6A0DAD" />
+</p>
 
-<b>JavaScript</b><br>
-<img src="https://progress-bar.dev/70/?width=400&color=6A0DAD">
+<p>
+JavaScript<br>
+<img src="https://progress-bar.dev/70/?scale=100&width=400&color=6A0DAD" />
+</p>
