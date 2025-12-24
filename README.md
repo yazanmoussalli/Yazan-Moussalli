@@ -12,7 +12,7 @@
 <h2>About</h2>
 
 <p>
-Dedicated and detail-oriented developer with a strong passion for building mobile and web applications.
+Dedicated and detail-oriented developer with a strong passion for building mobile applications and web development .
 Committed to delivering high-quality solutions.
 </p>
 
@@ -21,9 +21,9 @@ Committed to delivering high-quality solutions.
 <h2>Personal Info</h2>
 
 <ul>
-  <li><b>Role:</b> Application Mobile & Web Developer</li>
-  <li><b>Education:</b> Computer Science Student</li>
-  <li><b>Focus:</b> Mobile & Web Applications</li>
+  <li><b>Role:</b>  Mobile Application & Web Developer</li>
+  <li><b>Education:</b> IT Student</li>
+  
 </ul>
 
 ---
