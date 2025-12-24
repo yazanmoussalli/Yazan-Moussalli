@@ -30,49 +30,23 @@ Committed to delivering high-quality solutions.
 
 <h2>My Skills</h2>
 
-<b>C++</b><br>
-<img src="https://progress-bar.dev/85/?title=&width=400">
-
-<b>Java</b><br>
-<img src="https://progress-bar.dev/80/?title=&width=400">
-
-<b>HTML</b><br>
-<img src="https://progress-bar.dev/90/?title=&width=400">
-
-<b>CSS</b><br>
-<img src="https://progress-bar.dev/85/?title=&width=400">
-
-<b>JavaScript</b><br>
-<img src="https://progress-bar.dev/75/?title=&width=400">
+<b>Flutter</b><br>
+<img src="https://progress-bar.dev/80/?width=400&color=6A0DAD"><br><br>
 
 <b>Dart</b><br>
-<img src="https://progress-bar.dev/70/?title=&width=400">
+<img src="https://progress-bar.dev/90/?width=400&color=6A0DAD"><br><br>
 
-<b>Flutter</b><br>
-<img src="https://progress-bar.dev/70/?title=&width=400">
+<b>C++</b><br>
+<img src="https://progress-bar.dev/90/?width=400&color=6A0DAD"><br><br>
 
-<b>SQL</b><br>
-<img src="https://progress-bar.dev/80/?title=&width=400">
+<b>HTML</b><br>
+<img src="https://progress-bar.dev/85/?width=400&color=6A0DAD"><br><br>
 
----
+<b>CSS</b><br>
+<img src="https://progress-bar.dev/85/?width=400&color=6A0DAD"><br><br>
 
-<h2>I'm Interested In</h2>
+<b>Java</b><br>
+<img src="https://progress-bar.dev/70/?width=400&color=6A0DAD"><br><br>
 
-- 📱 Mobile Application Development  
-- 🌐 Web Development  
-- ☁️ Cloud & DevOps  
-- 🧠 AI & Machine Learning  
-- 🗄 Database Management  
-- 📊 System Analysis  
-
----
-
-<h2>Projects</h2>
-
-🚧 Projects will be added soon.
-
----
-
-<h2>Contact</h2>
-
-- GitHub: https://github.com/YOUR_USERNAME
+<b>JavaScript</b><br>
+<img src="https://progress-bar.dev/70/?width=400&color=6A0DAD">
